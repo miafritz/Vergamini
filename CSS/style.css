@@ -140,7 +140,7 @@ img {
             rgba(23, 37, 29, 0.85),
             transparent 45%
         ),
-        url("../assets/background1.jpeg");
+        url("../Assets/background1.jpeg");
 
     background-size: cover;
     background-position: center;
